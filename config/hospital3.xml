@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dic>
+  <item text="县医院" key="520014"/>
+  <item text="中医院" key="520015"/>
+  <item text="精神病院" key="520016"/>
+  <item text="妇保院" key="520017"/>
+  <item text="武阳" key="510132111"/>
+  <item text="五津" key="510132100"/>
+  <item text="邓双" key="510132110"/>
+  <item text="新平" key="510132106"/>
+  <item text="金华" key="510132103"/>
+  <item text="方兴" key="510132107"/>
+  <item text="安西" key="510132108"/>
+  <item text="花源" key="510132102"/>
+  <item text="文井" key="510132202"/>
+  <item text="花桥" key="510132101"/>
+  <item text="普兴" key="510132104"/>
+  <item text="兴义" key="510132105"/>
+  <item text="永商" key="510132109"/>
+</dic>
